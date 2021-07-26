@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: New_Project.Mavan_Automation.AppiumTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.444 s - in New_Project.Mavan_Automation.AppiumTest
